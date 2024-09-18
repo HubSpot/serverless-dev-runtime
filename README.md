@@ -1,6 +1,6 @@
 # @hubspot/serverless-dev-runtime
 
-A serverless function development runtime that can be used to test CMS serverless functions. This is intended for use with the [CMS CLI](https://developers.hubspot.com/docs/cms/developer-reference/local-development-cms-cli).
+A serverless function development runtime that can be used to test CMS serverless functions. This is intended for use with the [HubSpot CLI](https://developers.hubspot.com/docs/cms/developer-reference/local-development-cms-cli).
 
 ⚠️ **This is a BETA release that uses some HubSpot features that are not available to all customer accounts. Please refer to the HubSpot [Developer Beta Terms](https://legal.hubspot.com/developerbetaterms)** ⚠️
 
