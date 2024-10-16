@@ -1,6 +1,6 @@
 {
   "name": "@hubspot/serverless-dev-runtime",
-  "version": "5.4.1-beta.0",
+  "version": "6.2.0",
   "description": "A tool for testing HubSpot CMS serverless functions locally",
   "main": "index.js",
   "repository": "https://github.com/HubSpot/serverless-dev-runtime",
@@ -24,7 +24,7 @@
     "prettier": "^1.19.1"
   },
   "peerDependencies": {
-    "@hubspot/local-dev-lib": "^1.13.1"
+    "@hubspot/local-dev-lib": "^2.0.1"
   },
   "scripts": {
     "lint": "eslint . && prettier --list-different ./**/*.{js,json}",
