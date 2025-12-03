@@ -1,6 +1,6 @@
 {
   "name": "@hubspot/serverless-dev-runtime",
-  "version": "7.0.6",
+  "version": "7.0.7",
   "description": "A tool for testing HubSpot CMS serverless functions locally",
   "main": "index.js",
   "repository": "https://github.com/HubSpot/serverless-dev-runtime",
